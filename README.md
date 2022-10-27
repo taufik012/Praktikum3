@@ -16,7 +16,8 @@
 
 * Setelah mendownload PyCharm instal dan buka aplikasi nya
 
-![13](https://user-images.githubusercontent.com/115480692/198170487-f3e6e4f4-2b4a-42fd-a26e-55ae922bdda8.png)
+![12](https://user-images.githubusercontent.com/115480692/198172686-e3bde280-efa4-4028-bd59-ba4c6712e8a3.png)
+
 
 
 **2. Menjalankan PyCharm**
