@@ -74,7 +74,7 @@ lalu isi jari jari lingkaran
 ![4](https://user-images.githubusercontent.com/115480692/198171571-19e3614a-3c14-4c8b-8288-48b69a27005c.png)
 
 
-lalu klik enter
+lalu klik enter untuk mengetahui hasilnya
 
 ![5](https://user-images.githubusercontent.com/115480692/198172360-d0b19a06-8da6-4869-96f2-5d1a0aee4951.png)
 
