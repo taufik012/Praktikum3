@@ -1,3 +1,13 @@
+Nama : Taufik Hidayat
+
+Kelas : TI.22.B.2
+
+NIM : 312210674
+
+Tugas : Bahasa Pemrograman
+
+#
+
 # Program Menghitung Luas dan Keliling Lingkarang dengan Python
 
 ## Langkah langkah:
@@ -5,6 +15,7 @@
 1. Instal PyCharm
 2. Menjalankan PyCharm
 3. Menghitung Luas dan Keliling lingkaran
+4. Flowchart
 #
 
 **1. Instal PyCharm**
@@ -67,3 +78,8 @@ lalu klik enter
 
 ![5](https://user-images.githubusercontent.com/115480692/198172360-d0b19a06-8da6-4869-96f2-5d1a0aee4951.png)
 
+**4. Flowchart Menghitung luas dan keliling lingkaran**
+
+![1](https://user-images.githubusercontent.com/115480692/198173962-7b8177ae-198b-42a0-8d61-cabb9970ab5b.png)
+
+# Terimakasih
